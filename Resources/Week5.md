@@ -1,4 +1,4 @@
-# Week 38 - Resources
+# Week 39 - Resources
 
 [Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
 
