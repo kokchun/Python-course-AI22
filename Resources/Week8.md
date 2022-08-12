@@ -1,6 +1,6 @@
 # Week 42 Resource
 
-[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/kokchun/Python-course-AI22)
 
 ## under construction
 

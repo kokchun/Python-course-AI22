@@ -1,6 +1,6 @@
 # Week 36 - Resources
 
-[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/kokchun/Python-course-AI22)
 
 ## Video guides :video_camera:
 - Learn [for statement][for_video] to efficiently repeat code
@@ -32,13 +32,13 @@
 [real_pipenv]: https://realpython.com/pipenv-guide/
 
 ## Lecture notes :mortar_board:
-- [for loop](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L3-for-statement.ipynb)
-- [lists](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L4-lists.ipynb)
+- [for loop](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/L3-for-statement.ipynb)
+- [lists](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/L4-lists.ipynb)
 
 ## Exercises :running:
 - [for statement][exercise_for]
 - [list][exercise_list]
 
-[exercise_for]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/03-for-statement-exercise.ipynb
+[exercise_for]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/03-for-statement-exercise.ipynb
 
-[exercise_list]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/04-list-exercise.ipynb
+[exercise_list]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/04-list-exercise.ipynb

@@ -24,20 +24,20 @@
 
 ## Lecture notes :mortar_board:
 
-- [strings](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L5-strings.ipynb)
-- [functions](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L6-functions.ipynb)
-- [exceptions](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L7-error-handling.ipynb)  
+- [strings](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/L5-strings.ipynb)
+- [functions](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/L6-functions.ipynb)
+- [exceptions](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/L7-error-handling.ipynb)  
 
 ## Exercises :running:
 - [strings][str_exercise]
 - [functions][func_exercise] 
 - [exception][except_exer]
 
-[except_exer]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/07-exception-exercise.ipynb
+[except_exer]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/07-exception-exercise.ipynb
 
-[str_exercise]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/05-strings-exercise.ipynb
+[str_exercise]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/05-strings-exercise.ipynb
 
-[func_exercise]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/06-functions-exericse.ipynb
+[func_exercise]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/06-functions-exericse.ipynb
 
 ## Lab 2
 - deadline week 37 friday :hourglass_flowing_sand:

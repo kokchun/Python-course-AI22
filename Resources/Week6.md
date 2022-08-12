@@ -1,6 +1,6 @@
 # Week 40 Resource
 
-[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/kokchun/Python-course-AI22)
 
 ## Video guides :video_camera:
 
@@ -15,8 +15,8 @@
 
 ## Lecture notes :mortar_board:
 
-- [Matplotlib](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/Lec13-Matplotlib.ipynb)
-- [Unit testing](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Lectures/Lec14-unit%20testing)
+- [Matplotlib](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec13-Matplotlib.ipynb)
+- [Unit testing](https://github.com/kokchun/Python-course-AI22/tree/main/Lectures/Lec14-unit%20testing)
 
 ## Software
 

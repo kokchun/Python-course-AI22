@@ -61,9 +61,9 @@
 - [if statement][exercise_if]
 - [while statement][exercise_while]
 
-[exercise_count]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
-[exercise_if]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/01-if-statement-exercise.ipynb 
-[exercise_while]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/Exercises/02-while-statement-exercise.ipynb
+[exercise_count]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
+[exercise_if]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/01-if-statement-exercise.ipynb 
+[exercise_while]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/02-while-statement-exercise.ipynb
 
 ## Lab 1
 - Deadline friday week 34  :hourglass_flowing_sand:

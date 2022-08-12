@@ -1,6 +1,6 @@
 # Week 41 Resource
 
-[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/kokchun/Python-course-AI22)
 
 ## Video guides :video_camera:
 
