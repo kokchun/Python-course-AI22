@@ -1,6 +1,6 @@
-# Programmering med Python (2021)
+# Programmering med Python (AI22)
 
-This is a fundamental Python course with focus of learning important programming concepts in order to solve various problems by writing Python programs. All materials including lecture notes, code-along and resource links can be found in the course [Github repo][ghr].
+This is a fundamental Python course with focus of learning important programming concepts in order to solve various problems by writing Python programs. All materials including lecture notes, code-along, exercises and resource links can be found in the course [Github repo][ghr].
 
 [ghr]: https://github.com/kokchun/Python-course-AI22
 
@@ -9,7 +9,7 @@ This is a fundamental Python course with focus of learning important programming
 
 For detailed schedule [click here][time_sched]
 
-[time_sched]: https://github.com/kokchun/Programmering-med-Python-21/blob/main/ScheduleAI21.md
+[time_sched]: https://github.com/kokchun/Python-course-AI22/blob/main/ScheduleAI22.md
 
 |       Week       | Content                                                                    |
 | :--------------: | -------------------------------------------------------------------------- |
@@ -40,4 +40,4 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 
 When installing softwares, unless anything else is stated in the resources, just click next.
 
-[Check resources](https://github.com/kokchun/Programmering-med-Python-21/tree/main/Weekly_resources)
+[Check resources](https://github.com/kokchun/Python-course-AI22/tree/main/Resources)
