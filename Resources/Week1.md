@@ -43,7 +43,7 @@
 ## Theory :book:
 - [Github repo tutorial][git_repo_tutorial]
 - [Variables - w3schools][w3var]
-- [Input - w3schools][w3input]s
+- [Input - w3schools][w3input]
 - [while - w3schools][w3while]
 
 [git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
@@ -52,9 +52,9 @@
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
 
 ## Lecture notes :mortar_board:
-- [Input-output, variables](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L0-input-output.ipynb)
-- [if-statement](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L1-if-statements.ipynb)
-- [while loop](https://github.com/kokchun/Programmering-med-Python-21/blob/main/Lectures/L2-while-statement.ipynb)
+- [Input-output, variables](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L0-input-output.ipynb)
+- [if-statement](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L1-if-statements.ipynb)
+- [while loop](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L2-while-statement.ipynb)
 
 ## Exercises :running:
 - [Count with Python][exercise_count]
