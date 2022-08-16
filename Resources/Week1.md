@@ -66,5 +66,4 @@
 [exercise_while]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/02-while-statement-exercise.ipynb
 
 ## Lab 1
-- Deadline friday week 34  :hourglass_flowing_sand:
-
+- Work with lab 1 Github

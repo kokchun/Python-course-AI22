@@ -13,14 +13,14 @@ For detailed schedule [click here][time_sched]
 
 |       Week       | Content                                                                    |
 | :--------------: | -------------------------------------------------------------------------- |
-| [34][w1] | installation, git, vscode, variables, I/O, if, while, lab 1                |
-| [35][w2] | for, lists, random, matplotlib, pipenv                                     |
-| [36][w3] | strings, functions, exception handling, lab 2                              |
-| [37][w4] | file handling, dictionary, lab 2                                           |
-| [38][w5] | OOP: class, object, attributes, properties, docstring, polymorphism, lab 3 |
-| [39][w6] | OOP: inheritance, unit testing, modules, lab 3                             |
-| [40][w7] | lab3, repetition                                                           |
-| [41][w8] | written exam                                                               |
+| [35][w1] | installation, git, vscode, variables, I/O, if, while, lab 1                |
+| [36][w2] | for, lists, random, matplotlib, pipenv                                     |
+| [37][w3] | strings, functions, exception handling, lab 2                              |
+| [38][w4] | file handling, dictionary, lab 2                                           |
+| [39][w5] | OOP: class, object, attributes, properties, docstring, polymorphism, lab 3 |
+| [40][w6] | OOP: inheritance, unit testing, modules, lab 3                             |
+| [41][w7] | lab3, repetition                                                           |
+| [42][w8] | written exam                                                               |
 
 [w1]: https://github.com/kokchun/Python-course-AI22/blob/main/Resources/Week1.md
 [w2]: https://github.com/kokchun/Python-course-AI22/blob/main/Resources/Week2.md
