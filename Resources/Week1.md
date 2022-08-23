@@ -4,9 +4,9 @@
 
 ## Setup :wrench:
 
-- Download newest version of [Python here][pyt] and install it. Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
+- Download [Python 3.9 here][pyt] and install it (don't install Python 3.10). Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
 
-[pyt]: https://www.python.org/downloads/
+[pyt]: https://www.python.org/downloads/release/python-3913/
 
 - Download [Visual Studio Code here][vscode] and install it. 
 
