@@ -40,3 +40,5 @@ Many exercises and lecture materials are in form of Jupyter notebooks with **.ip
 When installing softwares, unless anything else is stated in the resources, just click next.
 
 [Check resources](https://github.com/kokchun/Python-course-AI22/tree/main/Resources)
+
+When you have finished the exercises in this repo, you can work in [Project Euler](https://projecteuler.net/)
