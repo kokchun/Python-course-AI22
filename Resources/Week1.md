@@ -44,6 +44,8 @@
 - [Github repo tutorial][git_repo_tutorial]
 - [Variables - w3schools][w3var]
 - [Input - w3schools][w3input]
+- [f-strings](https://realpython.com/python-f-strings/)
+- [Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
 - [while - w3schools][w3while]
 
 [git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
