@@ -1,0 +1,54 @@
+Adam Gustafsson 25
+Björn Björnsson 39
+Bose Bosseson 32
+Ella Ester 41
+Emil Johansson 23
+Emma Boden 32
+Erik Eriksson 31
+Fredrika Ulven 10
+Gore Bord 55
+Hanna Karlsson 23 
+Håkan Håkanson 24
+Ida Håkansson 23
+Jakob Kallander 65
+Johan Johansson 42
+Jonas Jonasson 31
+Karl Karlsson 32
+Ove Karlsten 41
+Sven Erik Karlsson 13
+Sven Erik Lundin 39
+
+
+Sorterat efter betyg
+
+
+Betyg F
+Sven Erik Karlsson 13
+Fredrika Ulven 10
+
+Betyg E
+Adam Gustafsson 25
+Emil Johansson 23
+Ida Håkansson 23
+Hanna Karlsson 23 
+Håkan Håkanson 24
+
+Betyg D
+Emma Boden 32
+Sven Erik Lundin 39
+Björn Björnsson 39
+Karl Karlsson 32
+Bose Bosseson 32
+Jonas Jonasson 31
+Erik Eriksson 31
+
+Betyg C
+Ove Karlsten 41
+Ella Ester 41
+Johan Johansson 42
+
+Betyg B
+Gore Bord 55
+
+Betyg A
+Jakob Kallander 65
