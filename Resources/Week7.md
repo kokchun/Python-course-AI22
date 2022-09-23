@@ -18,4 +18,4 @@ See previous weeks
 
 - lab 3
 
-- TODO: link to övningsprov
+- work with exercise exam and old exam

@@ -15,8 +15,11 @@
 
 ## Lecture notes :mortar_board:
 
-- [Matplotlib](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec13-Matplotlib.ipynb)
-- [Unit testing](https://github.com/kokchun/Python-course-AI22/tree/main/Lectures/Lec14-unit%20testing)
+- [Matplotlib](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec14-Matplotlib.ipynb)
+- [Unit testing](https://github.com/kokchun/Python-course-AI22/tree/main/Lectures/Lec15-unit%20testing)
+
+TODO: link to OOP theoretical depth 
+
 
 ## Software
 

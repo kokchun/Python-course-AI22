@@ -25,13 +25,13 @@
 
 ## Lecture notes :mortar_board:
 
-- [OOP basics](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec10-OOP_basics.ipynb)
-- [OOP polymorphism](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec11-polymorphism.ipynb)
-- [OOP inheritance](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec12-inheritance.ipynb)
+- [OOP basics](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec11-OOP_basics.ipynb)
+- [OOP polymorphism](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec12-polymorphism.ipynb)
+- [OOP inheritance](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec13-inheritance.ipynb)
 
 ## Exercises :running:
 
 - [OOP basics][OOP_exer]
-- [OOP inheritance and polymorphism](https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/11-OOP-exercise2.ipynb)
+- [OOP inheritance and polymorphism](https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/E12-OOP-inheritance_polymorphism.ipynb)
 
-[OOP_exer]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/10-OOP-basic-exercise.ipynb
+[OOP_exer]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/E11-OOP-basic-exercise.ipynb
