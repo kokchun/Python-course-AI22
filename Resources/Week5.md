@@ -5,6 +5,7 @@
 ## Video guides :video_camera:
 - Learn [Classes and objects][class_vid] for code organization and reusability 
 - Continue on [classes and objects][class_vid2]
+- [UML](https://realpython.com/lessons/uml-diagrams/)
 
 [class_vid]: https://www.youtube.com/watch?v=wfcWRAxRVBA
 [class_vid2]: https://www.youtube.com/watch?v=WOwi0h_-dfA
@@ -17,6 +18,7 @@
 - [documentation - Real Python](https://realpython.com/documenting-python-code/)
 - [operator overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
 - [polymorphism](https://www.programiz.com/python-programming/polymorphism)
+- [UML](https://python.astrotech.io/design-patterns/uml/class-diagram.html)
 
 [OOP_real]: https://realpython.com/python3-object-oriented-programming/
 [w3OOP]: https://www.w3schools.com/python/python_classes.asp

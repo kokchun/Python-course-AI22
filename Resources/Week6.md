@@ -4,21 +4,21 @@
 
 ## Video guides :video_camera:
 
-- [UML](https://realpython.com/lessons/uml-diagrams/)
 - [unit testing](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 
 ## Theory :book:
 
-- [modules - Python docs](https://www.w3schools.com/python/python_modules.asp)
-- [UML](https://python.astrotech.io/design-patterns/uml/class-diagram.html)
+- [modules - w3schools](https://www.w3schools.com/python/python_modules.asp)
 - [theory about unit testing](https://en.wikipedia.org/wiki/Unit_testing)
+- [classes - Python docs](https://docs.python.org/3/tutorial/classes.html)
+- [dataclasses - Python docs](https://docs.python.org/3/library/dataclasses.html?highlight=dataclass#module-dataclasses)
+- [property - Python docs](https://docs.python.org/3/library/functions.html?highlight=property#property)
+- [namespace - Python docs](https://docs.python.org/3/glossary.html#term-namespace)
 
 ## Lecture notes :mortar_board:
 
 - [Matplotlib](https://github.com/kokchun/Python-course-AI22/blob/main/Lectures/Lec14-Matplotlib.ipynb)
 - [Unit testing](https://github.com/kokchun/Python-course-AI22/tree/main/Lectures/Lec15-unit%20testing)
-
-TODO: link to OOP theoretical depth 
 
 
 ## Software
