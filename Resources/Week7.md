@@ -8,14 +8,14 @@ See previous weeks
 
 ## Theory :book:
 
-See previous weeks
+- [Abstract base class - Python docs](https://docs.python.org/3/library/abc.html?highlight=abstract%20class)
 
 ## Lecture notes :mortar_board:
 
-See previous weeks
+TODO: add link to lec note 
 
 ## Exercises :running:
 
 - lab 3
 
-- work with exercise exam and old exam
+- work with old exercises, example exam and old exam
