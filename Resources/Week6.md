@@ -12,8 +12,10 @@
 - [theory about unit testing](https://en.wikipedia.org/wiki/Unit_testing)
 - [classes - Python docs](https://docs.python.org/3/tutorial/classes.html)
 - [dataclasses - Python docs](https://docs.python.org/3/library/dataclasses.html?highlight=dataclass#module-dataclasses)
+- [dataclasses - Hjelle G. A. Real Python ](https://realpython.com/python-data-classes/)
 - [property - Python docs](https://docs.python.org/3/library/functions.html?highlight=property#property)
 - [namespace - Python docs](https://docs.python.org/3/glossary.html#term-namespace)
+
 
 ## Lecture notes :mortar_board:
 
