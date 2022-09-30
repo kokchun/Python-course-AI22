@@ -1,4 +1,14 @@
+from importlib.resources import path
 import unittest
+import sys, os
+
+# changes directory to this files path
+os.chdir(os.path.dirname(__file__))
+path_to_vector_module = os.path.abspath("../")
+
+# adds this path to sys.path where Python will look when importing modules
+sys.path.append(path_to_vector_module)
+
 from vector import Vector
 
 class TestVector(unittest.TestCase):
