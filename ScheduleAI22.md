@@ -1,7 +1,5 @@
 # Schema - Programmering med Python (AI22)
 
-## DRAFT - under construction
-
 | Vecka |     Måndag (distans)     |          Tisdag          |          Onsdag           |    Deadlines    |
 | :---: | :----------------------: | :----------------------: | :-----------------------: | :-------------: |
 |  35   |        13:15-16 F        | 9-11:45 F <br>13:15-15 S | 9-11:45 F <br> 13:15-15 S | Labb 1 (fredag) |
